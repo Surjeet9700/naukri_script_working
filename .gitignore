@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Chrome user data directory
+chrome_user_data/
+
+# Cookie file (contains session info)
+naukri_cookies.json
+
+# Node.js dependencies
+node_modules/
+
+# Debug files
+*.log
+*.png
+
+# OS specific files
+.DS_Store
+Thumbs.db
