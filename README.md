@@ -47,3 +47,4 @@ The script will:
 ## Note
 
 This is for educational purposes only. Please respect Naukri.com's terms of service and robots.txt when using this script.# naukri_script_working
+# naukri_script_working
